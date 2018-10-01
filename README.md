@@ -1,0 +1,2 @@
+# Cordova
+Cordova Starter Template
